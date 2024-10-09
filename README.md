@@ -4,7 +4,13 @@
 - <b>Data Analytics with MSSQL and Power BI for visualization for Pizza Restaurant</b>
   - [Pizza Sales Project](https://github.com/Jeremiahokorie619/Pizza-Sales-Project)
 - <b>Extract, Transform and Load data for Data analysis with Python and SQL alchemy</b>
-  - [ETL_with_Python_and_SQL](https://github.com/Jeremiahokorie619/ETL_with_Python_and_SQL/blob/main/README.md) 
+  - [ETL_with_Python_and_SQL](https://github.com/Jeremiahokorie619/ETL_with_Python_and_SQL/blob/main/README.md)
+- <b>Advanced Data Cleaning Techniques with Pandas</b>
+  - [Advanced_Data_Cleaning_Techniques_with_Pandas](https://github.com/Jeremiahokorie619/Advanced_Data_Cleaning_Techniques_with_Pandas)
+- <b>Data Analysis with MySQL and Power BI for retail store sales data</b>
+  - [Data_analysis_with_MySQL_and_Power_BI_for_retail_store_sales_data](https://github.com/Jeremiahokorie619/Data_analysis_with_MySQL_and_Power_BI_for_retail_store_sales_data)
+- <b>Advanced Data Cleaning Techniques with Pandas</b>
+  - [Advanced_Data_Cleaning_Techniques_with_Pandas](https://github.com/Jeremiahokorie619/Advanced_Data_Cleaning_Techniques_with_Pandas)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
