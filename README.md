@@ -9,8 +9,8 @@
   - [Advanced_Data_Cleaning_Techniques_with_Pandas](https://github.com/Jeremiahokorie619/Advanced_Data_Cleaning_Techniques_with_Pandas)
 - <b>Data Analysis with MySQL and Power BI for retail store sales data</b>
   - [Data_analysis_with_MySQL_and_Power_BI_for_retail_store_sales_data](https://github.com/Jeremiahokorie619/Data_analysis_with_MySQL_and_Power_BI_for_retail_store_sales_data)
-- <b>Advanced Data Cleaning Techniques with Pandas</b>
-  - [Advanced_Data_Cleaning_Techniques_with_Pandas](https://github.com/Jeremiahokorie619/Advanced_Data_Cleaning_Techniques_with_Pandas)
+- <b>Churn_Data_Analysis_with_Prediction_Model</b>
+  - [Churn_Data_Analysis_with_Prediction_Model](https://github.com/Jeremiahokorie619/Advanced_Data_Cleaning_Techniques_with_Pandas)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
