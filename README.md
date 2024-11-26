@@ -13,6 +13,8 @@
   - [Churn_Data_Analysis_with_Prediction_Model](https://github.com/Jeremiahokorie619/Churn_Data_Analysis_with_Prediction_Model)
 - <b>Data_Normalization_With_Excel-Power_Query-</b>
   - [Data_Normalization_With_Excel-Power_Query-](https://github.com/Jeremiahokorie619/Data_Normalization_With_Excel-Power_Query-)
+- <b>Excel_VBA_Intermediate_Project</b>
+  - [Excel_VBA_Intermediate_Project](https://github.com/Jeremiahokorie619/Excel_VBA_Intermediate_Project)
 - <b>HR_Analytics_with_Tableau-</b>
   - [HR_Analytics_with_Tableau-](https://github.com/Jeremiahokorie619/HR_Analytics_with_Tableau)
 
